@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kareem Negm </title>
+    <link>https://kareem-negm.github.io/kareem_negm_portfolio/post/</link>
+    <description>Recent content in Projects on Kareem Negm </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kareem-negm.github.io/kareem_negm_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Style Transfer Algorithm</title>
+      <link>https://kareem-negm.github.io/kareem_negm_portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kareem-negm.github.io/kareem_negm_portfolio/post/project-2/</guid>
+      <description>Plan of attack  This is not a very straight forward problem so let me break it down for you. We need to extract features out of these images, we don&amp;rsquo;t want to have the exact pixel values in them, we just need the features. To extract these features we could ( and will ) use a pretrained CNN to encode these images into feature maps. Then we need to figure out a way to mathematically model the style of the style image.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Predicting-diabetes</title>
+      <link>https://kareem-negm.github.io/kareem_negm_portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kareem-negm.github.io/kareem_negm_portfolio/post/project-1/</guid>
+      <description>Diabetes is a serious, long-term condition with a major impact on the lives and well-being of individuals, families, and societies worldwide. It is among the top 10 causes of death in adults, and was estimated to have caused four million deaths globally in 2017 [1]. In 2017
+  he global diabetes prevalence in 2019 is estimated to be 9.3% (463 million people), rising to 10.2% (578 million) by 2030 and 10.</description>
+    </item>
+    
+  </channel>
+</rss>
